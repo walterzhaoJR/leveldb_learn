@@ -1,3 +1,7 @@
 *.log
 code/testdb/*
 code/CMakeFiles/*
+code/CMakeCache.txt
+code/Makefile
+code/cmake_install.cmake
+code/main
